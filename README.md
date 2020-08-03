@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi, I am Maaz Abdullah 👋
 
 <!--
 **maaz1996/maaz1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
