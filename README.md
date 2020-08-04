@@ -1,3 +1,6 @@
+<img src="https://github.com/maaz1996/maaz1996/blob/master/Maaz%20Abdullah_Banner.png?raw=true">
+
+
 # Hi, I am Maaz Abdullah 👋💻:earth_asia:
 
 <!--
