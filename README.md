@@ -1,7 +1,6 @@
-<img src="https://github.com/maaz1996/maaz1996/blob/master/Maaz%20Abdullah_Banner.png?raw=true">
-
-
 # Hi, I am Maaz Abdullah 👋💻:earth_asia:
+<img src="https://github.com/maaz1996/maaz1996/blob/master/Maaz%20Abdullah.png">
+
 
 <!--
 **maaz1996/maaz1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
