@@ -6,6 +6,6 @@ Hey y'all, I'm Maaz! I'm a Product Developer at Stepping Cloud in New Delhi, Ind
 
 ## Find me around the web 🌎:
 
-- Learning in public on <a href="https://maazabdullah.netlify.app/">Maaz Abdullah</a>
+- Learning in public on <a href="https://maazabdullah.netlify.app/">Maaz Abdullah</a> :globe_with_meridians:
 - Follow me on <a href="https://github.com/maaz1996">Github</a> :octocat:
 - Find me on <a href="https://www.linkedin.com/in/maaz-abdullah/">LinkedIn</a> 💼
