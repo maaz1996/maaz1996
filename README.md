@@ -1,4 +1,4 @@
-# Hi, I am Maaz Abdullah 👋💻🌍:
+# Hi, I am Maaz Abdullah 👋💻🌍
 
 <img src="https://github.com/maaz1996/maaz1996/blob/master/Maaz%20Abdullah.png">
 
